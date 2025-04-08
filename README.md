@@ -88,7 +88,7 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
    Create a `config.env` file and add the following lines:
 
    ```sh
-   SESSION_ID=your_session_id_here
+   SESSION_ID=cytrak9
    PREFIX=.
    STICKER_PACKNAME=LyFE
    ALWAYS_ONLINE=false
@@ -100,11 +100,11 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
    BRAINSHOP=159501,6pq8dPiYt7PdqHz3
    MAX_UPLOAD=200
    REJECT_CALL=false
-   SUDO=989876543210
-   TZ=Asia/Kolkata
+   SUDO=_
+   TZ=Africa/Nairobi
    VPS=true
    AUTO_STATUS_VIEW=true
-   SEND_READ=true
+   SEND_READ=false
    AJOIN=true
    DISABLE_START_MESSAGE=false
    PERSONAL_MESSAGE=null
